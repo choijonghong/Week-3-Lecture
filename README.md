@@ -15,5 +15,7 @@ Week-2-Lecture
 
   ### 참고 파일
 
-<b>[감성컴퓨팅)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20Affective%20Computing%2BMIT%20Media%20Lab.pdf)</b> 
+<b>[(감성컴퓨팅)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20Affective%20Computing%2BMIT%20Media%20Lab.pdf)</b> 
+
+<b>[(감성컴퓨팅)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20Affective%20Computing%2BMIT%20Media%20Lab.pdf)</b> 
 
