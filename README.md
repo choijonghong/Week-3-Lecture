@@ -15,7 +15,12 @@ Week-2-Lecture
 
   ### 참고 파일
 
-<b>[(감성컴퓨팅)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20Affective%20Computing%2BMIT%20Media%20Lab.pdf)</b> 
+<b>[(감성컴퓨팅논문 원문)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20Affective%20Computing%2BMIT%20Media%20Lab.pdf)</b> 
 
-<b>[(감성컴퓨팅)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20Affective%20Computing%2BMIT%20Media%20Lab.pdf)</b> 
+<b>[(구버전+감성컴퓨팅논문 요약)](1. 감성컴퓨팅+논문요약(Affective computing).pdf)</b> 
+
+<b>[(깃허브 기초)](1. 깃허브 기초.docx)</b> 
+
+<b>[(신버전+감성컴퓨팅논문 요약)](감성컴퓨팅+종합.docx)</b> 
+
 
