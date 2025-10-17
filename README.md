@@ -21,6 +21,6 @@ Week-2-Lecture
 
 <b>[(깃허브 기초)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20%EA%B9%83%ED%97%88%EB%B8%8C%20%EA%B8%B0%EC%B4%88.docx)</b> 
 
-<b>[(신버전+감성컴퓨팅논문 요약)]https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85%2B%EA%B0%9C%EC%9A%94.pdf)</b> 
+<b>[(신버전+감성컴퓨팅논문 요약)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85%2B%EA%B0%9C%EC%9A%94.pdf)</b> 
 
 
