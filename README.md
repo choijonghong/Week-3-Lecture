@@ -15,5 +15,5 @@ Week-2-Lecture
 
   ### 참고 파일
 
-<b>[이슈(Issues)](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/issues)</b> 탭에 남겨주세요.
+<b>[감성컴퓨팅)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20Affective%20Computing%2BMIT%20Media%20Lab.pdf)</b> 
 
