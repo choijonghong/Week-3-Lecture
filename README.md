@@ -18,10 +18,10 @@ Week-3-Lecture
 
 <b>[(텐서플로우 플레이 그라운드 바로가기)](https://playground.tensorflow.org/)</b> 
 
-<b>[(구버전+감성컴퓨팅논문 요약)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85%2B%EB%85%BC%EB%AC%B8%EC%9A%94%EC%95%BD(Affective%20computing).pdf)</b> 
-
-<b>[(깃허브+종합)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20%EA%B9%83%ED%97%88%EB%B8%8C%2B%EC%A2%85%ED%95%A9%20.docx)</b> 
-
-<b>[(신버전+감성컴퓨팅논문 요약)](https://github.com/choijonghong/Week-2-Lecture/blob/main/%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85%2B%EC%A2%85%ED%95%A9.pdf)</b> 
-
-
+* 감성컴퓨팅의 최근동향 논문:A Systematic Review on Affective Computing
+* 텐서플로우 개요
+* Circle 데이타셋
+* XOR 데이타셋
+* 가우시안 분포
+* Spiral 데이타셋
+* 용어의 정의: 손실함수, 학습률, 경사하강법,활성화 함수, 정규화
