@@ -17,6 +17,10 @@ Week-3-Lecture
 ### 참고 파일
 
 <b>[(텐서플로우 플레이 그라운드 바로가기)](https://playground.tensorflow.org/)</b> 
+<!-- TensorFlow Playground 바로가기 (새 창 열림) -->
+<a href="https://playground.tensorflow.org" target="_blank" rel="noopener noreferrer">
+  TensorFlow Playground 열기 ↗
+</a>
 
 <b>[(구버전+감성컴퓨팅논문 요약)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85%2B%EB%85%BC%EB%AC%B8%EC%9A%94%EC%95%BD(Affective%20computing).pdf)</b> 
 
