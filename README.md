@@ -1,5 +1,5 @@
-# Week-2-Lecture
-Week-2-Lecture
+# Week-3-Lecture
+Week-3-Lecture
 
 ### 감성컴퓨팅의 개요(Affective Computing)
 
@@ -9,9 +9,8 @@ Week-2-Lecture
 
   ### 강의 목차
 
-* 1. 전시간 리뷰
-* 2. 깃허브~ 소개
-* 3. 감성컴퓨팅 소개
+* . 텐서플로우 플레이 그라운드 소개
+* 3. 감성컴퓨팅 
 
   ### 참고 파일
 
