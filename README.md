@@ -14,7 +14,7 @@ Week-3-Lecture
 * 텐서플로우 플레이 그라운드 소개
 * 감성컴퓨팅 
 
-  ### 참고 파일
+### 참고 파일
 
 <b>[(텐서플로우 플레이 그라운드 바로가기)](https://playground.tensorflow.org/)</b> 
 
