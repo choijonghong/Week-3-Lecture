@@ -1,7 +1,7 @@
 # Week-3-Lecture
 Week-3-Lecture
 
-### 감성컴퓨팅의 개요(Affective Computing)
+### 텐서플로우 플레이그라운드
 
 * 텐서플로우 플레이그라운드는 신경망의 학습 과정을 시각적으로 보여주는 웹 기반 도구입니다.
 
@@ -16,7 +16,7 @@ Week-3-Lecture
 
   ### 참고 파일
 
-<b>[(감성컴퓨팅논문 원문)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20Affective%20Computing%2BMIT%20Media%20Lab.pdf)</b> 
+<b>[(텐서플로우 플레이 그라운드 바로가기)](https://playground.tensorflow.org/)</b> 
 
 <b>[(구버전+감성컴퓨팅논문 요약)](https://github.com/choijonghong/Week-2-Lecture/blob/main/1.%20%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85%2B%EB%85%BC%EB%AC%B8%EC%9A%94%EC%95%BD(Affective%20computing).pdf)</b> 
 
