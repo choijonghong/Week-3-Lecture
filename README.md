@@ -19,6 +19,7 @@ Week-3-Lecture
 <b>[(텐서플로우 플레이 그라운드 바로가기)](https://playground.tensorflow.org/)</b> 
 
 * 감성컴퓨팅의 최근동향 논문:A Systematic Review on Affective Computing
+* 감성컴퓨팅 용어
 * 텐서플로우플레이 그라운드 개요
 * Circle 데이타셋
 * XOR 데이타셋
